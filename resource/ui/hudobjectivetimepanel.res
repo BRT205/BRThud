@@ -63,8 +63,8 @@
 		if_match
 		{
 			"proportionaltoparent"	"1"
-			"xpos"					"0"
-			"ypos"					"21"
+			"xpos"					"2"
+			"ypos"					"15"
 			"ypos_minmode"			"21"
 			"wide"					"p1"
 			"font"					"CabinMedium12"

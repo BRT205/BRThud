@@ -3033,6 +3033,28 @@ Scheme
 			}
 		}
 		
+		CabinMedium8
+		{
+			"1"
+			{
+				"name"		"Cabin Medium"
+				"tall"		"8"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		CabinMedium10
+		{
+			"1"
+			{
+				"name"		"Cabin Medium"
+				"tall"		"10"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
 		CabinMedium12
 		{
 			"1"
@@ -3083,6 +3105,28 @@ Scheme
 			{
 				"name"		"Cabin Medium"
 				"tall"		"32"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		CabinBold8
+		{
+			"1"
+			{
+				"name"		"Cabin Bold"
+				"tall"		"8"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		CabinBold10
+		{
+			"1"
+			{
+				"name"		"Cabin Bold"
+				"tall"		"10"
 				"weight"	"500"
 				"antialias" "1"
 			}
@@ -3319,6 +3363,17 @@ Scheme
 			}
 		}
 		
+		CabinRegular10
+		{
+			"1"
+			{
+				"name"		"Cabin Regular"
+				"tall"		"10"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
 		CabinRegular12
 		{
 			"1"
@@ -3391,6 +3446,17 @@ Scheme
 			{
 				"name"		"Cabin SemiBold"
 				"tall"		"8"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		CabinSemiBold10
+		{
+			"1"
+			{
+				"name"		"Cabin SemiBold"
+				"tall"		"10"
 				"weight"	"500"
 				"antialias" "1"
 			}
