@@ -17,6 +17,6 @@
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"fgcolor_override"    "230 230 230 255"
+		"fgcolor_override"    "255 255 255 255"
 	}					
 }

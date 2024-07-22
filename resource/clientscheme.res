@@ -18,8 +18,12 @@ Scheme
 	//////////////////////// COLORS ///////////////////////////
 	Colors
 	{
-		// base colors
+		// hud colors
 		"Grey_tf2hud"			"200 200 200 200"
+		"Blue_tf2hud"           "72 112 125 150"
+		"Red_tf2hud"            "108 64 61 150"
+		
+		// base colors
 		"Orange"			"178 82 22 255"
 		"OrangeDim"			"178 82 22 120"
 		"LightOrange"		"188 112 0 128"

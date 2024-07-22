@@ -17,7 +17,7 @@
 		"visible" "1"
 		"enabled" "1"
 		"xpos"	"c107"	[$WIN32]
-		"ypos"	"c76"	[$WIN32]
+		"ypos"	"c95"	[$WIN32]
 		"wide"	"94"
 		"tall"	"45"
 	}
@@ -476,7 +476,7 @@
 		"visible" "1"
 		"enabled" "1"
 		"xpos"	 "r635"	[$WIN32]
-		"ypos"	 "10"	[$WIN32]
+		"ypos"	 "14"	[$WIN32]
 		"wide"	 "628"
 		"tall"	 "468"
 

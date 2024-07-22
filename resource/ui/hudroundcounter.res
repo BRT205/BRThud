@@ -19,7 +19,7 @@
 
 		"RoundIndicatorPanel_kv"
 		{
-			"ypos"				"4"
+			"ypos"				"3"
 			"wide"				"6"
 			"tall"				"6"
 			"zpos"				"7"
@@ -71,7 +71,7 @@
 		"wide"			"40"
 		"tall"			"9"
 		"proportionaltoparent"	"1"
-		"bgcolor_override"	"72 112 125 150"
+		"bgcolor_override"	"72 112 125 150" // Blue_tf2hud in clientscheme
 	}
 	"RedTeamBackground"
 	{
@@ -83,6 +83,6 @@
 		"wide"			"40"
 		"tall"			"9"
 		"proportionaltoparent"	"1"
-		"bgcolor_override"	"108 64 61 150"
+		"bgcolor_override"	"108 64 61 150" //Red_tf2hud in clientscheme
 	}
 }
