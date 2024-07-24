@@ -64,8 +64,7 @@
 		{
 			"proportionaltoparent"	"1"
 			"xpos"					"2"
-			"ypos"					"15"
-			"ypos_minmode"			"21"
+			"ypos"					"13"
 			"wide"					"p1"
 			"font"					"CabinMedium12"
 		}

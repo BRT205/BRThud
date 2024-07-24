@@ -62,7 +62,7 @@
 				"proportionaltoparent"	"1"
 
 				"xpos"			"15"
-				"ypos"			"12"
+				"ypos"			"7"
 				"tall"			"10"
 				"wide"			"35"
 				"font"			"cabinmedium12"			
@@ -124,11 +124,10 @@
 				"proportionaltoparent"	"1"
 
 				"xpos"			"rs1-15"
-				"ypos"			"12"
+				"ypos"			"7"
 				"wide"			"35"
 				"tall"			"10"
-				"font"			"cabinmedium12"
-			
+				"font"			"cabinmedium12"			
 			}
 		}	
 	}

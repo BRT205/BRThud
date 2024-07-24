@@ -503,7 +503,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"Cabin Regular"
 				"tall"		"20"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -2262,7 +2262,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Cabin Bold"
 				"tall"		"8"
 				"weight"	"500"
 				"additive"	"0"
@@ -2273,7 +2273,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Cabin Bold"
 				"tall"		"9"
 				"weight"	"500"
 				"additive"	"0"
@@ -2284,7 +2284,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Cabin Bold"
 				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"
@@ -2295,7 +2295,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Cabin Bold"
 				"tall"		"18"
 				"weight"	"500"
 				"additive"	"0"
@@ -2306,7 +2306,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"Cabin Regular"
 				"tall"		"7"
 				"weight"	"500"
 				"additive"	"0"
@@ -2317,7 +2317,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Cabin Regular"
 				"tall"		"8"
 				"antialias" "1"
 				"weight"	"500"
@@ -2327,7 +2327,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"Cabin Regular"
 				"tall"		"8"
 				"weight"	"500"
 				"additive"	"0"
@@ -2338,7 +2338,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"Cabin Regular"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -2349,7 +2349,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"Cabin Regular"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -3114,6 +3114,39 @@ Scheme
 			}
 		}
 		
+		CabinMedium36
+		{
+			"1"
+			{
+				"name"		"Cabin Medium"
+				"tall"		"36"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		CabinMedium40
+		{
+			"1"
+			{
+				"name"		"Cabin Medium"
+				"tall"		"40"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		CabinMedium48
+		{
+			"1"
+			{
+				"name"		"Cabin Medium"
+				"tall"		"48"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
 		CabinBold8
 		{
 			"1"
@@ -3477,6 +3510,17 @@ Scheme
 			}
 		}
 		
+		CabinSemiBold14
+		{
+			"1"
+			{
+				"name"		"Cabin SemiBold"
+				"tall"		"14"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
 		CabinSemiBold16
 		{
 			"1"
@@ -3487,6 +3531,8 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		
+		
 		
 		CabinSemiBold20
 		{
