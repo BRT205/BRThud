@@ -121,7 +121,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"MapLabel"
 		"font"			"CabinRegular16"
-		"xpos"			"r260"	[$WIN32]
+		"xpos"			"r253"	[$WIN32]
 		"ypos"			"0"	[$WIN32]
 		"wide"			"240"	[$WIN32]
 		"tall"			"20"
@@ -138,30 +138,19 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"ClassOrTeamLabel"
 		"xpos"			"c-85"
-		"xpos_hidef"	"c-65"
-		"xpos_lodef"	"40"
 		"ypos"			"68"
-		"ypos_hidef"	"90"
-		"ypos_lodef"	"30"	
 		"wide"			"170"
-		"wide_hidef"	"130"
-		"wide_lodef"	"220"
 		"tall"			"15"
-		"tall_lodef"	"25"
 		"zpos"			"2"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"	[$WIN32]
-		"visible_minmode"		"0"
-		"visible"		"0"	[$X360]
 		"enabled"		"1"
 		"labelText"		"#TF_Spectator_ChangeTeam"
 		"textAlignment"		"center"
 		"textAlignment_lodef"		"north-west"
-		"font"			"SpectatorKeyHints"
-		"font_hidef"	"HudFontSmallest"
-		"font_lodef"	"HudFontSmall"
-		"wrap_lodef"			"1"
+		"font"			"CabinRegular10"
+		"fgcolor_override"     "White"
 	}
 	"SwitchCamModeKeyLabel"
 	{

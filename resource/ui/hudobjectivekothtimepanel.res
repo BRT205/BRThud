@@ -53,9 +53,10 @@
 			"wide"			"45"
 			"tall"			"31"
 			"visible"		"1"
-			"enabled"		"1"
+			"enabled"		"0"
 			"textAlignment"		"center"
 			"labelText"		"0:00"
+			"disabledfgcolor2_override"		"White"
 
 			if_match
 			{
@@ -115,9 +116,10 @@
 			"wide"			"45"
 			"tall"			"31"
 			"visible"		"1"
-			"enabled"		"1"
+			"enabled"		"0"
 			"textAlignment"		"center"
 			"labelText"		"0:00"
+			"disabledfgcolor2_override"		"White"
 
 			if_match
 			{

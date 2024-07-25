@@ -284,26 +284,25 @@
 		"tall"				"150"
 		"visible"			"0"
 		"enabled"			"1"
-		"delta_item_x"			"22"	[$WIN32]
-		"delta_item_start_y"	"50"
+		"delta_item_x"			"39"	[$WIN32]
+		"delta_item_start_y"	"55"
 		"delta_item_end_y"		"70"
 		"PositiveColor"			"0 255 0 255"
 		"NegativeColor"			"255 0 0 255"
 		"delta_lifetime"		"1.5"
-		"delta_item_font"		"HudFontMedium"
+		"delta_item_font"		"CabinMedium12"
 
 		if_match
 		{
 			"xpos"					"cs-0.5"
 			"wide"					"130"
-			"ypos_minmode"			"0"
-			"delta_item_x"			"35"
-			"delta_item_start_y"	"12"
-			"delta_item_end_y"		"50"
+			"delta_item_x"			"53"
+			"delta_item_start_y"	"17"
+			"delta_item_end_y"		"30"
 			"PositiveColor"			"0 255 0 255"
 			"NegativeColor"			"255 0 0 255"
 			"delta_lifetime"		"1.5"
-			"delta_item_font"		"HudFontMediumSmall"
+			"delta_item_font"		"CabinMedium12"
 		}
 		
 		"TimePanelValue"

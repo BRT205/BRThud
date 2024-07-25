@@ -16,7 +16,7 @@
 		"fieldName" "HudWeaponAmmo"
 		"visible" "1"
 		"enabled" "1"
-		"xpos"	"c107"	[$WIN32]
+		"xpos"	"c117"	[$WIN32]
 		"ypos"	"c95"	[$WIN32]
 		"wide"	"94"
 		"tall"	"45"
@@ -910,8 +910,8 @@
 		"enabled"				"1"
 		"xpos"					"200"
 		"ypos"					"200"
-		"wide"					"100"
-		"tall"					"50"
+		"wide"					"0"
+		"tall"					"0"
 	}
 
 	AnnotationsPanelCallout

@@ -94,7 +94,7 @@
 		"ControlName"	"Label"
 		"fieldName"		"TargetNameLabelBG"
 		"font"			"CabinRegular12"
-		"xpos"			"43"
+		"xpos"			"44"
 		"ypos"			"11"
 		"zpos"			"1"
 		"wide"			"640"
@@ -111,20 +111,22 @@
 		"ControlName"		"Label"
 		"fieldName"		"TargetDataLabel"
 		"font"			"CabinSemiBold10"
+		"disabledfgcolor2_override"		"White"
 		"xpos"			"8"
 		"ypos"			"17"	[$WIN32]
 		"zpos"			"1"
-		"wide"			"280"
+		"wide"			"290"
 		"tall"			"15"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"
-		"enabled"		"1"
+		"enabled"		"0"
 		"labelText"		"%targetdata%"
 		"textAlignment"		"Left"
 		"dulltext"		"0"
 		"brighttext"		"0"
 	}
+	
 	"SpectatorGUIHealth"
 	{
 		"ControlName"		"EditablePanel"

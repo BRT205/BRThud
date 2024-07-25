@@ -29,7 +29,7 @@
 
 		"RoundWinPanelRed_kv"
 		{
-			"ypos"				"-2"
+			"ypos"				"-3"
 			"wide"				"17"
 			"tall"				"17"
 			"zpos"				"8"
@@ -39,7 +39,7 @@
 
 		"RoundWinPanelBlue_kv"
 		{
-			"ypos"				"-2"
+			"ypos"				"-3"
 			"wide"				"17"
 			"tall"				"17"
 			"zpos"				"8"

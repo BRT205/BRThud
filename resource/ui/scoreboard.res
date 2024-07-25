@@ -1238,6 +1238,7 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
+			"fgcolor"       "White"
 			
 			if_mvm
 			{
@@ -1252,7 +1253,7 @@
 			"ControlName"		"CExLabel"
 			"fieldName"		"Kills2"
 			"font"			"CabinMedium12"
-			"labelText"		"%deaths%"
+			"labelText"		"%kills%"
 			"textAlignment"		"west"
 			"xpos"			"180"
 			"ypos"			"0"
@@ -1288,6 +1289,7 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
+			"fgcolor"       "White"
 			
 			if_mvm
 			{
@@ -1355,6 +1357,7 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
+			"fgcolor"       "White"
 			
 			if_mvm
 			{
@@ -1404,6 +1407,7 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
+			"fgcolor"       "White"
 			
 			if_mvm
 			{
@@ -1524,6 +1528,7 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
+			"fgcolor"       "White"
 			
 			if_mvm
 			{
@@ -1572,6 +1577,7 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
+			"fgcolor"       "White"
 			
 			if_mvm
 			{
@@ -1619,6 +1625,7 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
+			"fgcolor"       "White"
 			
 			if_mvm
 			{
@@ -1668,6 +1675,7 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
+			"fgcolor"       "White"
 			
 			if_mvm
 			{
@@ -1788,6 +1796,7 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
+			"fgcolor"       "White"
 			
 			if_mvm
 			{
@@ -1836,6 +1845,7 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
+			"fgcolor"       "White"
 			
 			if_mvm
 			{
@@ -1884,6 +1894,7 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
+			"fgcolor"       "White"
 			
 			if_mvm
 			{
@@ -1931,6 +1942,7 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
+			"fgcolor"       "White"
 			
 			if_mvm
 			{
@@ -1998,6 +2010,7 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
+			"fgcolor"       "White"
 			
 			if_mvm
 			{
@@ -2065,6 +2078,7 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
+			"fgcolor"       "White"
 			
 			if_mvm
 			{
@@ -2131,6 +2145,7 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
+			"fgcolor"       "White"
 			
 			if_mvm
 			{
@@ -2197,6 +2212,7 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
+			"fgcolor"       "White"
 			
 			if_mvm
 			{
