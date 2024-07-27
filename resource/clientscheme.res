@@ -2262,7 +2262,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cabin Bold"
+				"name"		"Cabin Medium"
 				"tall"		"8"
 				"weight"	"500"
 				"additive"	"0"
@@ -2273,7 +2273,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cabin Bold"
+				"name"		"Cabin Medium"
 				"tall"		"9"
 				"weight"	"500"
 				"additive"	"0"
@@ -2284,7 +2284,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cabin Bold"
+				"name"		"Cabin Medium"
 				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"
@@ -2295,7 +2295,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cabin Bold"
+				"name"		"Cabin Medium"
 				"tall"		"18"
 				"weight"	"500"
 				"additive"	"0"

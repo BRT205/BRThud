@@ -17,16 +17,38 @@
 		"scaleImage"		"1"
 		"teambg_1"		"../hud/color_panel_brown"
 		"teambg_2"		"../hud/color_panel_red"
-		"teambg_2_lodef"	"../hud/color_panel_red"
 		"teambg_3"		"../hud/color_panel_blu"
-		"teambg_3_lodef"	"../hud/color_panel_blu"
 		
 		"src_corner_height"		"23"				// pixels inside the image
 		"src_corner_width"		"23"
 			
-		"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"5"	
+		"draw_corner_width"		"1"				// screen size of the corners ( and sides ), proportional
+		"draw_corner_height" 	"1"	
 	}
+	// "TeamIndicator"
+	//{
+	//	"ControlName"		"CTFImagePanel"
+	//	"fieldName"		"TeamIndicator"
+	//	"xpos"			"0"
+	//	"ypos"			"0"
+	//	"zpos"			"-1"
+	//	"wide"			"200"
+	//	"tall"	 		"2"
+	//	"autoResize"		"0"
+	//	"pinCorner"		"0"
+	//	"visible"		"1"
+	//	"enabled"		"1"
+	//	"scaleImage"		"1"
+	///	"teambg_1"		"../hud/color_panel_brown"
+	//	"teambg_2"		"../hud/color_panel_red"
+	//	"teambg_3"		"../hud/color_panel_blu"
+	//	
+	//	"src_corner_height"		"23"				// pixels inside the image
+	///	"src_corner_width"		"23"
+	//		
+	//	"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+	//	"draw_corner_height" 	"0"	
+	//}
 	"TargetIDBG_Spec_Blue"
 	{
 		"ControlName"		"ScalableImagePanel"
@@ -46,8 +68,8 @@
 		"src_corner_height"		"23"				// pixels inside the image
 		"src_corner_width"		"23"
 			
-		"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"5"
+		"draw_corner_width"		"1"				// screen size of the corners ( and sides ), proportional
+		"draw_corner_height" 	"1"
 	}
 	"TargetIDBG_Spec_Red"
 	{
@@ -68,8 +90,8 @@
 		"src_corner_height"		"23"				// pixels inside the image
 		"src_corner_width"		"23"
 			
-		"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"5"
+		"draw_corner_width"		"1"				// screen size of the corners ( and sides ), proportional
+		"draw_corner_height" 	"1"
 	}
 	
 	"TargetNameLabel"

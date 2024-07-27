@@ -1012,8 +1012,8 @@
 		{
 			"xpos"			"cs-0.5"
 			"ypos"			"cs-0.1"
-			"fgcolor"		"TanLight"
-			"font"			"HudFontGiant"
+			"fgcolor"		"255 255 255 255"
+			"font"			"CabinRegular16"
 		}
 
 		if_readymode
@@ -1027,16 +1027,16 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"CountdownLabelShadow"
-		"font"			"CabinRegular24"
+		"font"			"CabinRegular16"
 		"xpos"			"231"
 		"ypos"			"r54"
-		"wide"			"40"
-		"tall"			"40"
+		"wide"			"0"
+		"tall"			"0"
 		"zpos"			"4"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"0"
-		"enabled"		"1"
+		"enabled"		"0"
 		"wrap"			"0"
 		"labelText"		"%tournamentstatelabel%"
 		"textAlignment"		"center"
@@ -1047,7 +1047,7 @@
 		{
 			"xpos"			"cs-0.48"
 			"ypos"			"cs-0.08"
-			"font"			"HudFontGiant"
+			"font"			"CabinRegular24"
 		}
 
 		if_readymode

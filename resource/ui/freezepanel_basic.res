@@ -85,7 +85,7 @@
 			"tall"			"33"
 			"visible"		"1"
 			"enabled"		"1"
-			"bgcolor_override"     "50 50 50 100"
+			"bgcolor_override"     "50 50 50 200"
 			
 			"src_corner_height"		"23"				// pixels inside the image
 			"src_corner_width"		"23"
