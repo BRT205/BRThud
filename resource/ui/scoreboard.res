@@ -568,7 +568,7 @@
 		"labelText"		"%spectators%"
 		"textAlignment"		"west"
 		"xpos"			"115"
-		"ypos"			"277"
+		"ypos"			"270"
 		"zpos"			"4"
 		"wide"			"424"
 		"tall"			"20"

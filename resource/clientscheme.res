@@ -22,6 +22,7 @@ Scheme
 		"Grey_tf2hud"			"200 200 200 200"
 		"Blue_tf2hud"           "72 112 125 150"
 		"Red_tf2hud"            "108 64 61 150"
+		"LowerBarMenu"          "50 50 50 200"
 		
 		// base colors
 		"Orange"			"178 82 22 255"
