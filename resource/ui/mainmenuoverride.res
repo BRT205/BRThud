@@ -2107,6 +2107,7 @@
 		"navDown"		"QuickplayChangeButton"
 		"navToRelay"	"SubButton"
 
+
 		"SubButton"
 		{
 			"ControlName"	"CExImageButton"
@@ -2131,14 +2132,14 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"RoundedCorners"	"5"
 			
-			"paintbackground"	"1"
+			"paintbackground"	"0"
 			
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "200 200 200 255"
+			"armedFgColor_override" "235 235 235 255"
 			"depressedFgColor_override" "46 43 42 255"
 			
-			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"235 226 202 255"
+			"image_drawcolor"	"200 200 200 255"
+			"image_armedcolor"	"235 235 235 255"
 
 			"proportionaltoparent"	"1"
 			
@@ -2199,15 +2200,14 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 			
-			"border_default"	"MainMenuSubButtonBorder"
-			"paintbackground"	"1"
+			"paintbackground"	"0"
 			
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "200 200 200 255"
+			"armedFgColor_override" "Red"
 			"depressedFgColor_override" "46 43 42 255"
 			
-			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"235 226 202 255"
+			"image_drawcolor"	"200 200 200 255"
+			"image_armedcolor"	"235 235 235 255"
 			"proportionaltoparent"	"1"
 			
 			"SubImage"
@@ -2242,6 +2242,8 @@
 		"navDown"		"QuickplayChangeButton"
 		"navRight"		"RequestCoachButton"
 		"navToRelay"	"SubButton"
+		
+
 
 		"SubButton"
 		{
@@ -2266,15 +2268,14 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 			
-			"border_default"	"MainMenuSubButtonBorder"
-			"paintbackground"	"1"
+			"paintbackground"	"0"
 			
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "200 200 200 255"
+			"armedFgColor_override" "Red"
 			"depressedFgColor_override" "46 43 42 255"
 			
-			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"235 226 202 255"
+			"image_drawcolor"	"200 200 200 255"
+			"image_armedcolor"	"235 235 235 255"
 			"proportionaltoparent"	"1"
 			
 			"SubImage"
@@ -2335,14 +2336,14 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 			
 			
-			"paintbackground"	"1"
+			"paintbackground"	"0"
 			
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "200 200 200 255"
+			"armedFgColor_override" "Red"
 			"depressedFgColor_override" "46 43 42 255"
 			
-			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"235 226 202 255"
+			"image_drawcolor"	"200 200 200 255"
+			"image_armedcolor"	"235 235 235 255"
 			"proportionaltoparent"	"1"
 			
 			"SubImage"

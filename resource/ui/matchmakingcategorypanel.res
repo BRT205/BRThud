@@ -138,7 +138,9 @@
 			"proportionaltoparent"	"1"
 			"labeltext"		""
 			"smallcheckimage"	"1"
-
+			"defaultFgColor_override" "White"
+		    "armedFgColor_override" "White"
+		    "selectedfgcolor_override"     "White"
 			"sound_depressed"	"UI/buttonclickrelease.wav"	
 			"button_activation_type"	"1"
 		}

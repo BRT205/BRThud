@@ -112,8 +112,13 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"image_drawcolor"	"TanLight"
-			"image_armedcolor"	"TanLight"
+			"armedBgColor_override"		"20 20 20 150"
+			"defaultBgColor_override"	"30 30 30 0"
+
+			"defaultFgColor_override" "200 200 200 255"
+			"armedFgColor_override" "235 235 235 255"
+			"image_drawcolor"	"200 200 200 255"
+			"image_armedcolor"	"235 235 235 255"
 
 			"SubImage"
 			{
@@ -655,7 +660,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"font"			"HudFontSmallBold"
+			"font"			"CabinMedium16"
 			"textAlignment"	"west"
 			"dulltext"		"0"
 			"brighttext"	"0"
@@ -673,14 +678,14 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"armedBgColor_override"		"192 28 0 150"
-			"defaultBgColor_override"	"192 28 0 50"
+			"armedBgColor_override"		"20 20 20 150"
+			"defaultBgColor_override"	"30 30 30 0"
 
-			"defaultFgColor_override" "TanLight"
-			"armedFgColor_override" "TanLight"
-
-			"image_drawcolor"	"TanLight"
-			"image_armedcolor"	"TanLight"
+			"defaultFgColor_override" "200 200 200 255"
+			"armedFgColor_override" "235 235 235 255"
+			
+			"image_drawcolor"	"200 200 200 255"
+			"image_armedcolor"	"235 235 235 255"
 
 			"SubImage"
 			{
@@ -714,7 +719,7 @@
 			"visible"		"0"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"font"			"HudFontSmallBold"
+			"font"			"CabinMedium16"
 			"textAlignment"	"west"
 			"dulltext"		"0"
 			"brighttext"	"0"
@@ -732,13 +737,13 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-		//	"armedBgColor_override"		"CreditsGreen"
-		//	"defaultBgColor_override"	"GreenSolid"
+			"armedBgColor_override"		"20 20 20 150"
+			"defaultBgColor_override"	"30 30 30 0"
 
-			"defaultFgColor_override" "TanLight"
-			"armedFgColor_override" "TanLight"
-			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"235 226 202 255"
+			"defaultFgColor_override" "200 200 200 255"
+			"armedFgColor_override" "235 235 235 255"
+			"image_drawcolor"	"200 200 200 255"
+			"image_armedcolor"	"235 235 235 255"
 
 			"SubImage"
 			{
@@ -772,7 +777,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"font"			"HudFontSmallBold"
+			"font"			"CabinMedium16"
 			"textAlignment"	"west"
 			"dulltext"		"0"
 			"brighttext"	"0"
@@ -790,13 +795,13 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"armedBgColor_override"		"CreditsGreen"
-			"defaultBgColor_override"	"GreenSolid"
+			"armedBgColor_override"		"20 20 20 150"
+			"defaultBgColor_override"	"30 30 30 0"
 
-			"defaultFgColor_override" "TanLight"
-			"armedFgColor_override" "TanLight"
-			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"235 226 202 255"
+			"defaultFgColor_override" "200 200 200 255"
+			"armedFgColor_override" "235 235 235 255"
+			"image_drawcolor"	"200 200 200 255"
+			"image_armedcolor"	"235 235 235 255"
 
 			"SubImage"
 			{
@@ -812,7 +817,7 @@
 				"scaleImage"	"1"
 				"proportionaltoparent"	"1"
 				"image"			"glyph_multiplayer"
-				"drawcolor_override" "TanLight"
+				"drawcolor_override" "200 200 200 255"
 			}
 		}
 	}
