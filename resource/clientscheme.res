@@ -23,6 +23,8 @@ Scheme
 		"Blue_tf2hud"           "72 112 125 150"
 		"Red_tf2hud"            "108 64 61 150"
 		"LowerBarMenu"          "50 50 50 200"
+		"Black_tf2hud"			"20 20 20 255"
+		"FooterLineHud"         "100 100 100 255"
 		
 		// base colors
 		"Orange"			"178 82 22 255"
@@ -3626,10 +3628,68 @@ Scheme
 
 	//
 	//////////////////// BORDERS //////////////////////////////
-	//
 	// describes all the border types
 	Borders
 	{
+	    FooterLineBorder  // Hud Border
+		{
+			"inset" "0 0 0 0"
+			Left
+			{
+				"1"
+				{
+					"color" "FooterLineHud"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "FooterLineHud"
+					"offset" "0 0"
+				}
+			}
+
+			Right
+			{
+				"1"
+				{
+					"color" "FooterLineHud"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "FooterLineHud"
+					"offset" "0 0"
+				}
+			}
+
+			Top
+			{
+				"1"
+				{
+					"color" "FooterLineHud"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "FooterLineHud"
+					"offset" "0 0"
+				}
+			}
+
+			Bottom
+			{
+				"1"
+				{
+					"color" "Blank"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "Blank"
+					"offset" "0 0"
+				}
+			}
+		}
 		NoBorder
 		{
 			"inset" "0 0 0 0"
