@@ -4231,8 +4231,9 @@ Scheme
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
+			"color"                 "40 40 40 255"
 			
-			"image"					"button_holder_central"
+			"image"					"backpack_rect_mouseover_color" // button_holder_central is the default but it doesnt work when you're in match
 			"src_corner_height"		"32"				// pixels inside the image
 			"src_corner_width"		"32"
 			"draw_corner_width"		"4"				// screen size of the corners ( and sides ), proportional
