@@ -2,13 +2,39 @@
 {
 	"TargetIDBG"
 	{
-		"ControlName"		"CTFImagePanel"
+		"ControlName"		"EditablePanel"
 		"fieldName"		"TargetIDBG"
 		"xpos"			"0"
-		"ypos"			"0"
+		"ypos"			"5"
 		"zpos"			"-1"
 		"wide"			"252"
-		"tall"	 		"50"
+		"tall"	 		"25"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/color_panel_brown"
+		"scaleImage"		"1"
+		"teambg_1"		"../hud/color_panel_brown"
+		"teambg_2"		"../hud/color_panel_red"
+		"teambg_3"		"../hud/color_panel_blu"
+		"bgcolor_override"      "50 50 50 130"
+		
+		"src_corner_height"		"23"				// pixels inside the image
+		"src_corner_width"		"23"
+			
+		"draw_corner_width"		"1"				// screen size of the corners ( and sides ), proportional
+		"draw_corner_height" 	"1"	
+	}
+	 "TeamIndicator"
+	{
+		"ControlName"		"CTFImagePane"
+		"fieldName"		"TeamIndicator"
+		"xpos"			"0"
+		"ypos"			"30"
+		"zpos"			"-2"
+		"wide"			"200"
+		"tall"	 		"2"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -22,48 +48,23 @@
 		"src_corner_height"		"23"				// pixels inside the image
 		"src_corner_width"		"23"
 			
-		"draw_corner_width"		"1"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"1"	
+		"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+		"draw_corner_height" 	"0"	
 	}
-	// "TeamIndicator"
-	//{
-	//	"ControlName"		"CTFImagePanel"
-	//	"fieldName"		"TeamIndicator"
-	//	"xpos"			"0"
-	//	"ypos"			"0"
-	//	"zpos"			"-1"
-	//	"wide"			"200"
-	//	"tall"	 		"2"
-	//	"autoResize"		"0"
-	//	"pinCorner"		"0"
-	//	"visible"		"1"
-	//	"enabled"		"1"
-	//	"scaleImage"		"1"
-	///	"teambg_1"		"../hud/color_panel_brown"
-	//	"teambg_2"		"../hud/color_panel_red"
-	//	"teambg_3"		"../hud/color_panel_blu"
-	//	
-	//	"src_corner_height"		"23"				// pixels inside the image
-	///	"src_corner_width"		"23"
-	//		
-	//	"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
-	//	"draw_corner_height" 	"0"	
-	//}
 	"TargetIDBG_Spec_Blue"
 	{
-		"ControlName"		"ScalableImagePanel"
+		"ControlName"		"EditablePanel"
 		"fieldName"		"TargetIDBG_Spec_Blue"
 		"xpos"			"0"
-		"ypos"			"0"
+		"ypos"			"5"
 		"zpos"			"-1"
 		"wide"			"252"
-		"tall"	 		"30"
+		"tall"	 		"25"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"0"
-		"enabled"		"1"
+		"enabled"		"0"
 		"image"			"../hud/color_panel_blu"
-		"image_lodef"	"../hud/color_panel_blu"
 		
 		"src_corner_height"		"23"				// pixels inside the image
 		"src_corner_width"		"23"
@@ -73,19 +74,18 @@
 	}
 	"TargetIDBG_Spec_Red"
 	{
-		"ControlName"		"ScalableImagePanel"
+		"ControlName"		"EditablePanel"
 		"fieldName"		"TargetIDBG_Spec_Red"
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"-1"
 		"wide"			"252"
-		"tall"	 		"30"
+		"tall"	 		"25"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"0"
-		"enabled"		"1"
+		"enabled"		"0"
 		"image"			"../hud/color_panel_red"
-		"image_lodef"	"../hud/color_panel_red"
 		
 		"src_corner_height"		"23"				// pixels inside the image
 		"src_corner_width"		"23"

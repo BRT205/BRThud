@@ -212,10 +212,6 @@
 		{	
 			"image"		"../console/title_scream_fortress_2017_widescreen"
 		}
-		if_fullmoon
-		{
-			"image"		"../console/title_fullmoon_widescreen"
-		}
 		if_christmas_0
 		{
 			"image"		"../console/background_xmas2020_widescreen"
