@@ -3227,6 +3227,17 @@ Scheme
 			}
 		}
 		
+		CabinBold36
+		{
+			"1"
+			{
+				"name"		"Cabin Bold"
+				"tall"		"36"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
 		CabinBoldItalic12
 		{
 			"1"
@@ -3469,6 +3480,17 @@ Scheme
 			}
 		}
 		
+		CabinRegular36
+		{
+			"1"
+			{
+				"name"		"Cabin Regular"
+				"tall"		"36"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
 		CabinSemiBold6
 		{
 			"1"
@@ -3565,6 +3587,28 @@ Scheme
 			{
 				"name"		"Cabin SemiBold"
 				"tall"		"32"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		CabinSemiBold36
+		{
+			"1"
+			{
+				"name"		"Cabin SemiBold"
+				"tall"		"36"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		CabinSemiBold40
+		{
+			"1"
+			{
+				"name"		"Cabin SemiBold"
+				"tall"		"40"
 				"weight"	"500"
 				"antialias" "1"
 			}

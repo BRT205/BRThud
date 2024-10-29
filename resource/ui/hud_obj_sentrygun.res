@@ -177,8 +177,8 @@
 			"zpos"			"-2"
 			"wide"			"44"
 			"tall"			"60"
-			"visible"		"0"
-			"enabled"		"0"	
+			"visible"		"1"
+			"enabled"		"1"	
 			"icon"			"obj_status_alert_background_tall"
 		}
 		
