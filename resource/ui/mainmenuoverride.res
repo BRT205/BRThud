@@ -2418,7 +2418,7 @@
 		
 		"defaultFgColor_override" "200 200 200 255"
 		"armedFgColor_override"   "White"
-		"depressedFgColor_override" "0 255 0 255"
+		"depressedFgColor_override" "255 255 255 255"
 			
 		"paintbackground"	"0"
 				
@@ -2484,7 +2484,7 @@
 		
 		"defaultFgColor_override" "200 200 200 255"
 		"armedFgColor_override"   "White"
-		"depressedFgColor_override" "75 125 255 255"
+		"depressedFgColor_override" "255 255 255 255"
 		
 		"paintbackground"	"0"
 				
