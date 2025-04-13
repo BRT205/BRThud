@@ -302,7 +302,8 @@
 				"visible"		"1"
 				"proportionaltoparent"	"1"
 
-				"border"		"ReplayDefaultBorder"
+				"border"		"FooterBorderHud"
+				"defaultBgColor_override"     "0 255 0 255"
 			}
 
 			"QueueLogoButton"

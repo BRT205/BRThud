@@ -261,7 +261,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"border"		"TeamMenuBorder"
-			"bgcolor_override" "0 0 0 255"
+			"bgcolor_override" "Black_tf2hud"
 		}
 		"AveragesLabel"
 		{
@@ -306,11 +306,7 @@
 			"ControlName"		"ImagePanel"
 			"fieldName"		"ClassBarBG1B"
 			"xpos"			"c+30"
-			"xpos_hidef"			"c+122"
-			"xpos_lodef"			"c+122"
 			"ypos"			"230"
-			"ypos_hidef"			"67"
-			"ypos_lodef"			"67"
 			"zpos"			"2"
 			"wide"			"70"
 			"tall"			"16"
@@ -340,7 +336,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"	
-			"fillcolor"		"162 148 135 255"
+			"fillcolor"		"60 60 60 255"
 			"PaintBackgroundType"	"0"
 		}
 		"ClassBar1B"
@@ -361,14 +357,14 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"	
-			"fillcolor"		"162 148 135 255"
+			"fillcolor"		"60 60 60 255"
 			"PaintBackgroundType"	"0"
 		}	
 		"ClassBarLabel1A"
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ClassBarLabel1A"
-			"font"			"ScoreboardVerySmall"
+			"font"			"CabinRegular10"
 			"labelText"		"%classbarlabel1A%"
 			"textAlignment"		"west"
 			"xpos"			"c-282"
@@ -389,7 +385,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ClassBarLabel1B"
-			"font"			"ScoreboardVerySmall"
+			"font"			"CabinRegular10"
 			"labelText"		"%classbarlabel1B%"
 			"textAlignment"		"west"
 			"xpos"			"c-127"
@@ -411,8 +407,6 @@
 			"ControlName"		"Label"
 			"fieldName"		"ClassLabel1"
 			"font"			"CabinRegular10"
-			"font_hidef"	"Default"
-			"font_lodef"			"ScoreboardVerySmall"
 			"labelText"		"%class1%"
 			"textAlignment"		"west"
 			"xpos"			"c+34"
@@ -489,7 +483,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"	
-			"fillcolor"		"93 60 27 255"
+			"fillcolor"		"75 75 75 255"
 			"PaintBackgroundType"	"0"
 		}	
 		"ClassBar2B"
@@ -510,14 +504,14 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"	
-			"fillcolor"		"93 60 27 255"
+			"fillcolor"		"75 75 75 255"
 			"PaintBackgroundType"	"0"
 		}	
 		"ClassBarLabel2A"
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ClassBarLabel2A"
-			"font"			"ScoreboardVerySmall"
+			"font"			"CabinRegular10"
 			"labelText"		"%classbarlabel2A%"
 			"textAlignment"		"west"
 			"xpos"			"c-282"
@@ -538,7 +532,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ClassBarLabel2B"
-			"font"			"ScoreboardVerySmall"
+			"font"			"CabinRegular10"
 			"labelText"		"%classbarlabel2B%"
 			"textAlignment"		"west"
 			"xpos"			"c-127"
@@ -561,7 +555,7 @@
 			"fieldName"		"ClassLabel2"
 			"font"			"CabinRegular10"
 			"font_hidef"	"Default"
-			"font_lodef"	"ScoreboardVerySmall"
+			"font_lodef"	"CabinRegular10"
 			"labelText"		"%class2%"
 			"textAlignment"		"west"
 			"xpos"			"c+34"
@@ -638,7 +632,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"	
-			"fillcolor"		"134 93 39 255"
+			"fillcolor"		"90 90 90 255"
 			"PaintBackgroundType"	"0"
 		}	
 		"ClassBar3B"
@@ -659,14 +653,14 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"	
-			"fillcolor"		"134 93 39 255"
+			"fillcolor"		"90 90 90 255"
 			"PaintBackgroundType"	"0"
 		}	
 		"ClassBarLabel3A"
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ClassBarLabel3A"
-			"font"			"ScoreboardVerySmall"
+			"font"			"CabinRegular10"
 			"labelText"		"%classbarlabel3A%"
 			"textAlignment"		"west"
 			"xpos"			"c-282"
@@ -687,7 +681,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ClassBarLabel3B"
-			"font"			"ScoreboardVerySmall"
+			"font"			"CabinRegular10"
 			"labelText"		"%classbarlabel3B%"
 			"textAlignment"		"west"
 			"xpos"			"c-127"
@@ -710,7 +704,7 @@
 			"fieldName"		"ClassLabel3"
 			"font"			"CabinRegular10"
 			"font_hidef"	"Default"
-			"font_lodef"			"ScoreboardVerySmall"
+			"font_lodef"			"CabinRegular10"
 			"labelText"		"%class3%"
 			"textAlignment"		"west"
 			"xpos"			"c+34"
@@ -787,7 +781,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"	
-			"fillcolor"		"207 147 95 255"
+			"fillcolor"		"106 106 106 255"
 			"PaintBackgroundType"	"0"
 		}	
 		"ClassBar4B"
@@ -808,14 +802,14 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"	
-			"fillcolor"		"207 147 95 255"
+			"fillcolor"		"106 106 106 255"
 			"PaintBackgroundType"	"0"
 		}	
 		"ClassBarLabel4A"
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ClassBarLabel4A"
-			"font"			"ScoreboardVerySmall"
+			"font"			"CabinRegular10"
 			"labelText"		"%classbarlabel4A%"
 			"textAlignment"		"west"
 			"xpos"			"c-282"
@@ -836,7 +830,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ClassBarLabel4B"
-			"font"			"ScoreboardVerySmall"
+			"font"			"CabinRegular10"
 			"labelText"		"%classbarlabel4B%"
 			"textAlignment"		"west"
 			"xpos"			"c-127"
@@ -859,7 +853,7 @@
 			"fieldName"		"ClassLabel4"
 			"font"			"CabinRegular10"
 			"font_hidef"	"Default"
-			"font_lodef"			"ScoreboardVerySmall"
+			"font_lodef"			"CabinRegular10"
 			"labelText"		"%class4%"
 			"textAlignment"		"west"
 			"xpos"			"c+34"
@@ -936,7 +930,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"	
-			"fillcolor"		"226 184 146 255"
+			"fillcolor"		"122 122 122 255"
 			"PaintBackgroundType"	"0"
 		}	
 		"ClassBar5B"
@@ -957,14 +951,14 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"	
-			"fillcolor"		"226 184 146 255"
+			"fillcolor"		"122 122 122 255"
 			"PaintBackgroundType"	"0"
 		}	
 		"ClassBarLabel5A"
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ClassBarLabel5A"
-			"font"			"ScoreboardVerySmall"
+			"font"			"CabinRegular10"
 			"labelText"		"%classbarlabel5A%"
 			"textAlignment"		"west"
 			"xpos"			"c-282"
@@ -985,7 +979,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ClassBarLabel5B"
-			"font"			"ScoreboardVerySmall"
+			"font"			"CabinRegular10"
 			"labelText"		"%classbarlabel5B%"
 			"textAlignment"		"west"
 			"xpos"			"c-127"
@@ -1008,7 +1002,7 @@
 			"fieldName"		"ClassLabel5"
 			"font"			"CabinRegular10"
 			"font_hidef"	"Default"
-			"font_lodef"			"ScoreboardVerySmall"
+			"font_lodef"			"CabinRegular10"
 			"labelText"		"%class5%"
 			"textAlignment"		"west"
 			"xpos"			"c+34"
@@ -1085,7 +1079,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"	
-			"fillcolor"		"162 148 135 255"
+			"fillcolor"		"137 137 137 255"
 			"PaintBackgroundType"	"0"
 		}	
 		"ClassBar6B"
@@ -1106,14 +1100,14 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"	
-			"fillcolor"		"162 148 135 255"
+			"fillcolor"		"137 137 137 255"
 			"PaintBackgroundType"	"0"
 		}	
 		"ClassBarLabel6A"
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ClassBarLabel6A"
-			"font"			"ScoreboardVerySmall"
+			"font"			"CabinRegular10"
 			"labelText"		"%classbarlabel6A%"
 			"textAlignment"		"west"
 			"xpos"			"c-282"
@@ -1134,7 +1128,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ClassBarLabel6B"
-			"font"			"ScoreboardVerySmall"
+			"font"			"CabinRegular10"
 			"labelText"		"%classbarlabel6B%"
 			"textAlignment"		"west"
 			"xpos"			"c-127"
@@ -1157,7 +1151,7 @@
 			"fieldName"		"ClassLabel6"
 			"font"			"CabinRegular10"
 			"font_hidef"	"Default"
-			"font_lodef"			"ScoreboardVerySmall"
+			"font_lodef"			"CabinRegular10"
 			"labelText"		"%class6%"
 			"textAlignment"		"west"
 			"xpos"			"c+34"
@@ -1234,7 +1228,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"	
-			"fillcolor"		"93 60 27 255"
+			"fillcolor"		"155 155 155 255"
 			"PaintBackgroundType"	"0"
 		}	
 		"ClassBar7B"
@@ -1255,14 +1249,14 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"	
-			"fillcolor"		"93 60 27 255"
+			"fillcolor"		"155 155 155 255"
 			"PaintBackgroundType"	"0"
 		}	
 		"ClassBarLabel7A"
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ClassBarLabel7A"
-			"font"			"ScoreboardVerySmall"
+			"font"			"CabinRegular10"
 			"labelText"		"%classbarlabel7A%"
 			"textAlignment"		"west"
 			"xpos"			"c-282"
@@ -1283,7 +1277,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ClassBarLabel7B"
-			"font"			"ScoreboardVerySmall"
+			"font"			"CabinRegular10"
 			"labelText"		"%classbarlabel7B%"
 			"textAlignment"		"west"
 			"xpos"			"c-127"
@@ -1306,7 +1300,7 @@
 			"fieldName"		"ClassLabel7"
 			"font"			"CabinRegular10"
 			"font_hidef"	"Default"
-			"font_lodef"			"ScoreboardVerySmall"
+			"font_lodef"			"CabinRegular10"
 			"labelText"		"%class7%"
 			"textAlignment"		"west"
 			"xpos"			"c+34"
@@ -1383,7 +1377,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"	
-			"fillcolor"		"134 93 39 255"
+			"fillcolor"		"171 171 171 255"
 			"PaintBackgroundType"	"0"
 		}	
 		"ClassBar8B"
@@ -1404,14 +1398,14 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"	
-			"fillcolor"		"134 93 39 255"
+			"fillcolor"		"171 171 171 255"
 			"PaintBackgroundType"	"0"
 		}	
 		"ClassBarLabel8A"
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ClassBarLabel8A"
-			"font"			"ScoreboardVerySmall"
+			"font"			"CabinRegular10"
 			"labelText"		"%classbarlabel8A%"
 			"textAlignment"		"west"
 			"xpos"			"c-282"
@@ -1432,7 +1426,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ClassBarLabel8B"
-			"font"			"ScoreboardVerySmall"
+			"font"			"CabinRegular10"
 			"labelText"		"%classbarlabel8B%"
 			"textAlignment"		"west"
 			"xpos"			"c-127"
@@ -1455,7 +1449,7 @@
 			"fieldName"		"ClassLabel8"
 			"font"			"CabinRegular10"
 			"font_hidef"	"Default"
-			"font_lodef"			"ScoreboardVerySmall"
+			"font_lodef"			"CabinRegular10"
 			"labelText"		"%class8%"
 			"textAlignment"		"west"
 			"xpos"			"c+34"
@@ -1532,7 +1526,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"	
-			"fillcolor"		"207 147 95 255"
+			"fillcolor"		"193 193 193 255"
 			"PaintBackgroundType"	"0"
 		}	
 		"ClassBar9B"
@@ -1553,14 +1547,14 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"	
-			"fillcolor"		"207 147 95 255"
+			"fillcolor"		"193 193 193 255"
 			"PaintBackgroundType"	"0"
 		}	
 		"ClassBarLabel9A"
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ClassBarLabel9A"
-			"font"			"ScoreboardVerySmall"
+			"font"			"CabinRegular10"
 			"labelText"		"%classbarlabel9A%"
 			"textAlignment"		"west"
 			"xpos"			"c-282"
@@ -1581,7 +1575,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ClassBarLabel9B"
-			"font"			"ScoreboardVerySmall"
+			"font"			"CabinRegular10"
 			"labelText"		"%classbarlabel9B%"
 			"textAlignment"		"west"
 			"xpos"			"c-127"
@@ -1604,7 +1598,7 @@
 			"fieldName"		"ClassLabel9"
 			"font"			"CabinRegular10"
 			"font_hidef"	"Default"
-			"font_lodef"			"ScoreboardVerySmall"
+			"font_lodef"			"CabinRegular10"
 			"labelText"		"%class9%"
 			"textAlignment"		"west"
 			"xpos"			"c+34"
@@ -1704,7 +1698,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord1Label"
-			"font"			"ScoreboardVerySmall"
+			"font"			"CabinRegular10"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord1label%"
 			"textAlignment"		"west"
@@ -1728,7 +1722,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord1Value"
-			"font"			"ScoreboardVerySmall"
+			"font"			"CabinRegular10"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord1value%"
 			"textAlignment"		"west"
@@ -1752,7 +1746,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord2Label"
-			"font"			"ScoreboardVerySmall"
+			"font"			"CabinRegular10"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord2label%"
 			"textAlignment"		"west"
@@ -1776,7 +1770,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord2Value"
-			"font"			"ScoreboardVerySmall"
+			"font"			"CabinRegular10"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord2value%"
 			"textAlignment"		"west"
@@ -1800,7 +1794,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord3Label"
-			"font"			"ScoreboardVerySmall"
+			"font"			"CabinRegular10"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord3label%"
 			"textAlignment"		"west"
@@ -1824,7 +1818,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord3Value"
-			"font"			"ScoreboardVerySmall"
+			"font"			"CabinRegular10"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord3value%"
 			"textAlignment"		"west"
@@ -1848,7 +1842,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord4Label"
-			"font"			"ScoreboardVerySmall"
+			"font"			"CabinRegular10"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord4label%"
 			"textAlignment"		"west"
@@ -1872,7 +1866,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord4Value"
-			"font"			"ScoreboardVerySmall"
+			"font"			"CabinRegular10"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord4value%"
 			"textAlignment"		"west"
@@ -1896,7 +1890,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord5Label"
-			"font"			"ScoreboardVerySmall"
+			"font"			"CabinRegular10"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord5label%"
 			"textAlignment"		"west"
@@ -1920,7 +1914,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord5Value"
-			"font"			"ScoreboardVerySmall"
+			"font"			"CabinRegular10"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord5value%"
 			"textAlignment"		"west"
@@ -1944,7 +1938,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord6Label"
-			"font"			"ScoreboardVerySmall"
+			"font"			"CabinRegular10"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord6label%"
 			"textAlignment"		"west"
@@ -1968,7 +1962,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord6Value"
-			"font"			"ScoreboardVerySmall"
+			"font"			"CabinRegular10"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord6value%"
 			"textAlignment"		"west"
@@ -1992,7 +1986,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord7Label"
-			"font"			"ScoreboardVerySmall"
+			"font"			"CabinRegular10"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord7label%"
 			"textAlignment"		"west"
@@ -2016,7 +2010,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord7Value"
-			"font"			"ScoreboardVerySmall"
+			"font"			"CabinRegular10"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord7value%"
 			"textAlignment"		"west"
@@ -2040,7 +2034,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord8Label"
-			"font"			"ScoreboardVerySmall"
+			"font"			"CabinRegular10"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord8label%"
 			"textAlignment"		"west"
@@ -2064,7 +2058,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord8Value"
-			"font"			"ScoreboardVerySmall"
+			"font"			"CabinRegular10"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord8value%"
 			"textAlignment"		"west"
@@ -2088,7 +2082,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord9Label"
-			"font"			"ScoreboardVerySmall"
+			"font"			"CabinRegular10"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord9label%"
 			"textAlignment"		"west"
@@ -2112,7 +2106,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord9Value"
-			"font"			"ScoreboardVerySmall"
+			"font"			"CabinRegular10"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord9value%"
 			"textAlignment"		"west"
@@ -2136,7 +2130,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord10Label"
-			"font"			"ScoreboardVerySmall"
+			"font"			"CabinRegular10"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord10label%"
 			"textAlignment"		"west"
@@ -2160,7 +2154,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord10Value"
-			"font"			"ScoreboardVerySmall"
+			"font"			"CabinRegular10"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord10value%"
 			"textAlignment"		"west"
@@ -2184,7 +2178,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord11Label"
-			"font"			"ScoreboardVerySmall"
+			"font"			"CabinRegular10"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord11label%"
 			"textAlignment"		"west"
@@ -2208,7 +2202,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord11Value"
-			"font"			"ScoreboardVerySmall"
+			"font"			"CabinRegular10"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord11value%"
 			"textAlignment"		"west"
@@ -2232,7 +2226,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord12Label"
-			"font"			"ScoreboardVerySmall"
+			"font"			"CabinRegular10"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord12label%"
 			"textAlignment"		"west"
@@ -2256,7 +2250,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord12Value"
-			"font"			"ScoreboardVerySmall"
+			"font"			"CabinRegular10"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord12value%"
 			"textAlignment"		"west"
@@ -2280,7 +2274,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord13Label"
-			"font"			"ScoreboardVerySmall"
+			"font"			"CabinRegular10"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord13label%"
 			"textAlignment"		"west"
@@ -2304,7 +2298,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord13Value"
-			"font"			"ScoreboardVerySmall"
+			"font"			"CabinRegular10"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord13value%"
 			"textAlignment"		"west"
@@ -2328,7 +2322,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord14Label"
-			"font"			"ScoreboardVerySmall"
+			"font"			"CabinRegular10"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord14label%"
 			"textAlignment"		"west"
@@ -2352,7 +2346,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord14Value"
-			"font"			"ScoreboardVerySmall"
+			"font"			"CabinRegular10"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord14value%"
 			"textAlignment"		"west"
@@ -2376,7 +2370,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord15Label"
-			"font"			"ScoreboardVerySmall"
+			"font"			"CabinRegular10"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord15label%"
 			"textAlignment"		"west"
@@ -2400,7 +2394,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord15Value"
-			"font"			"ScoreboardVerySmall"
+			"font"			"CabinRegular10"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord15value%"
 			"textAlignment"		"west"
@@ -2439,7 +2433,7 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"		"TipText"
-		"font"			"ScoreboardVerySmall"
+		"font"			"CabinRegular10"
 		"font_hidef"	"Default"
 		"labelText"		"%tiptext%"
 		"textAlignment"			"west"
@@ -2483,6 +2477,11 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"nexttip"
+		"defaultFgColor_override"    "White"
+		"defaultBgColor_override"    "40 40 40 255"
+		"armedBgColor_override"   "30 30 30 255"
+		"armedFgColor_override"   "255 255 255 255"
+		"depressedFgColor_override" "255 255 255 255"
 	}
 	"ResetStatsButton" [$WIN32]
 	{
@@ -2503,6 +2502,11 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"resetstatsbutton"
+		"defaultFgColor_override"    "White"
+		"defaultBgColor_override"    "40 40 40 255"
+		"armedBgColor_override"   "30 30 30 255"
+		"armedFgColor_override"   "255 255 255 255"
+		"depressedFgColor_override" "255 255 255 255"
 	}
 	"CloseButton" [$WIN32]
 	{

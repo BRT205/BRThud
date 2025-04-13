@@ -1,3 +1,4 @@
+#base	"speedometer.res"
 "Resource/UI/HudPlayerClass.res"
 {
 	// player class data
@@ -13,6 +14,7 @@
 		"visible"		"1"
 		"enabled"		"1"		
 	}
+	
 	"PlayerStatusClassImage"
 	{
 		"ControlName"	"CTFClassImage"

@@ -1,5 +1,6 @@
 "Resource/HudLayout.res"
 {
+
 	HudPlayerStatus
 	{
 		"fieldName" "HudPlayerStatus"

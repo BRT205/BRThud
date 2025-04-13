@@ -3738,6 +3738,66 @@ Scheme
 				}
 			}
 		}
+		
+		FooterBorderHud  // Hud Border 2
+		{
+			"inset" "0 0 0 0"
+			Left
+			{
+				"1"
+				{
+					"color" "FooterLineHud"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "FooterLineHud"
+					"offset" "0 0"
+				}
+			}
+
+			Right
+			{
+				"1"
+				{
+					"color" "FooterLineHud"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "FooterLineHud"
+					"offset" "0 0"
+				}
+			}
+
+			Top
+			{
+				"1"
+				{
+					"color" "FooterLineHud"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "FooterLineHud"
+					"offset" "0 0"
+				}
+			}
+
+			Bottom
+			{
+				"1"
+				{
+					"color" "FooterLineHud"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "FooterLineHud"
+					"offset" "0 0"
+				}
+			}
+		}
 		NoBorder
 		{
 			"inset" "0 0 0 0"
@@ -4228,6 +4288,18 @@ Scheme
 			"src_corner_width"		"24"
 			"draw_corner_width"		"11"				// screen size of the corners ( and sides ), proportional
 			"draw_corner_height" 	"11"	
+		}
+		
+		GrayDialogBorderHud
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"loadout_rect"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"1"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"1"	
 		}
 		
 		StoreFreeTrialBorder
